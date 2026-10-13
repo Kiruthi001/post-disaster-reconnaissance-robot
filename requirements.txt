@@ -1,0 +1,17 @@
+﻿# Core Computer Vision & Edge AI
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+
+# Telemetry Server & Networking
+Flask>=2.3.0
+pynmea2>=1.19.0
+requests>=2.28.0
+
+# Hardware & Microcontroller Communication
+pyserial>=3.5
+pygame>=2.5.0
+adafruit-circuitpython-rfm9x>=2.2.0
+
+# Audio Processing
+PyAudio>=0.2.13
+numpy>=1.24.0

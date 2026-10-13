@@ -1,0 +1,53 @@
+﻿# ==============================================================================
+# Gitignore for Post-Disaster Reconnaissance UGV Project
+# ==============================================================================
+
+# Unpublished Academic Paper & Research Materials
+paper/
+paper.zip
+main.pdf
+research_papers/
+*.pdf
+*.pptx
+
+# Coursework & Study Files
+STUDY/
+robotics/
+robotics.zip
+New folder/
+
+# Media Archives & Raw Video Files (>100MB blocked by GitHub)
+*.mp4
+*.avi
+*.mov
+*.zip
+robotimagefinally/
+
+# AI Training Datasets & Runs (Heavy binaries)
+human_object_detection/Rescue_Data.zip
+human_object_detection/datasets/
+human_object_detection/runs/
+
+# IDE & Editor Directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
